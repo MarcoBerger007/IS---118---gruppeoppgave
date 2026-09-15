@@ -10,6 +10,9 @@ Erling skal starte et nytt, heterogent og tidsavgrenset prosjekt. Han har derfor
 ## 3. Rammer for relasjonelle kontrakter
 
 ## 4. Proaktive mekanismer for konflikthåndtering
+I et team med forskjellige type mennesker vil det stadig dukke opp uenigheter. Derfor er det viktig for prosjektleder Erling å ha en god takhøyde og evner til å kunne løse konflikter. Langtidsgående konflikter vil kunne gjøre prosessen til et god slutt produkt vanskeligere hvis deler av gruppen har store uenigheter eller ikke trives med sine arbeids kolleger. 
+Når Erling som prosjekt lever vil automatisk stå i midten mellom uenige parter og vil være nødt til å ta beslutninger for ansattes og prosjektets beste. Det som vil være avgjørende for Erling vil være å ha gode relasjoner med teamet så han klarer å fange opp konfliktene tidlig før det eskalerer seg til noe større. Det er også enklere å løse små konflikter, så å løse dem tidlig vil også spare dem tid. 
+Uavhengig av Erlings erfaringer med å løse konflikter vil det være viktig for han å ha eventuelle måter og teknikker på å løse dem. En prosess han kan bruke for dette vil være (Samarbeid -> Kompromisser -> Imøtekommende -> ungåelse). I ettertid vil det også være viktig for Erling å følge opp konflikten og se om samarbeidet fungerer bedre over tid. Dette vil lønne seg for både trivsel samt effektivitet og kvalitet.
 
 ## 5. Håndtering av tidspress og planleggingsfellen
 Erling har 15 måneder på seg til å utvikle og lansere den digitale medborgerportalen. Dette kan føre til tidspress og et handlingspress, hvor han føler at han må komme seg raskt i gang med prosjektet. 
