@@ -4,7 +4,6 @@
 
 Erling skal starte et nytt, heterogent og tidsavgrenset prosjekt. Han har derfor et behov for en oppstarts pakke. Dette er på grunn av at han trenger veiledning og forenkling av prosessen. Hoved oppgaven vår blir å gjøre det enkelt for Erling. Vi vil gjøre det lett for han å sette sammen et godt team i oppstarts fasen ut ifra de seks sentrale fokusområdene. Pakken vi lager vil inneholde: rekruttering og sammensetning, design, rammer for relasjonelle kontrakter, rammer for relasjonelle kontrakter, proaktive mekanismer for konflikthåndtering, håndtering av tidspress og planlegging, sikring av god kommunikasjon. Dette burde gjøre det lett og effektivt for Erling å sette i gang prosjektet sitt med et godt team.
 
-<<<<<<<<< Temporary merge branch 1
 ## 1\. Strategi for rekruttering og sammensetning
 
 For Erling er det viktig å sette sammen prosjektgruppen med mangfold, teamroller og tillit, dette er viktig fordi det skaper personer med ulike kunnskap, erfaring og bakgrunn. 
