@@ -50,9 +50,9 @@ Kan personen delta gjennom hele eller store deler av prosjektperioden på 15 må
 
 
 
-## 2\. Design av det første møtet
+## 2. Design av det første møtet
 
-## 3\. Rammer for relasjonelle kontrakter
+## 3. Rammer for relasjonelle kontrakter
 
 ## 4\. Proaktive mekanismer for konflikthåndtering
 
