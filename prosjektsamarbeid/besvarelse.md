@@ -4,11 +4,10 @@
 
 Erling skal starte et nytt, heterogent og tidsavgrenset prosjekt. Han har derfor et behov for en oppstarts pakke. Dette er på grunn av at han trenger veiledning og forenkling av prosessen. Hoved oppgaven vår blir å gjøre det enkelt for Erling. Vi vil gjøre det lett for han å sette sammen et godt team i oppstarts fasen ut ifra de seks sentrale fokusområdene. Pakken vi lager vil inneholde: rekruttering og sammensetning, design, rammer for relasjonelle kontrakter, rammer for relasjonelle kontrakter, proaktive mekanismer for konflikthåndtering, håndtering av tidspress og planlegging, sikring av god kommunikasjon. Dette burde gjøre det lett og effektivt for Erling å sette i gang prosjektet sitt med et godt team.
 
+<<<<<<<<< Temporary merge branch 1
 ## 1\. Strategi for rekruttering og sammensetning
 
 For Erling er det viktig å sette sammen prosjektgruppen med mangfold, teamroller og tillit, dette er viktig fordi det skaper personer med ulike kunnskap, erfaring og bakgrunn. 
-
-
 
 Man får også mulighet med å se problemer med ulike øyner og kan komme med forskjellige løsninger. I prosjektet er det behov for flere ulike typ av kompetanser fordi det skal lages digital medborgerportal for innbyggere. Prosjektgruppen består av personer fra blant annet IT, kommunal administrasjon, politisk ledelse, fagspesialister som UX/UI-designer, en som kan sikre digitalt sikkerhet og innbyggerne. 
 
@@ -52,6 +51,22 @@ Kan personen delta gjennom hele eller store deler av prosjektperioden på 15 må
 
 ## 2. Design av det første møtet
 
+Det første møte i et prosjekt som dette kommer til å være avgjørende for hvordan teamet vil fungere videre. I forming-fasen er medlemmene foresatt usikrere på roller, forventinger og hvordan samarbeidet skal foregå. Derfor er det viktig at Erling designer et oppstartsmøte som kan skape trygghet, bygge relasjoner og etablerer en felles forståelse av målet til prosjektet. Dette setter grunnlaget for samarbeidet, og kan redusere risikoen for konflikter og misforståelser senere i prosjektet.
+Eksempel på en agenda Erling kan følge:
+Introduksjon og velkomst
+-	Her kan Erling åpne møte med en kort presentasjon av prosjektets bakgrunn, hva som er viktig, og hva kommunen ønsker å oppnå. Dette er en god start, som gir laget en felles retning.
+Presentasjonsrunde
+-	Deretter kan alle presentere seg selv. Her kan de fortelle om hva de kan bidra med, hvordan de jobber best, og hva de trenger fra dem andre for å lykkes. Dette hjelper med å skape en rolleforståelse og avdekker forventinger.
+Mål og rammer
+-	Så kan Erling gå gjennom tidsramme, budsjett, krav, politisk forankring og tverrfaglig sammensetting. Målet er å sikre at alle har samme forståelse av hva som skal leveres og hvorfor.
+Pseudo-arbeid
+-	Videre, kan de ta en pause ved å gjøre en aktivitet som ikke handler om prosjektets faglige innhold, men som heller bygger relasjoner. Da kan alle for eksempel komme med «en ting jeg trenger for å jobbe godt i et team», eller «hvordan ser en perfekt helg ut for deg». I et tverrfaglig team, der medlemmene har ulike fagkulturer, er pseudo-arbeid viktig for å brygge broer mellom perspektiver. Dette kan hjelpe med å skape sosial likheter som fører til lettere samarbeid på tvers av fag. 
+Forventningsavklaring
+-	Etter det kan teamet diskutere hvordan dem ønsker å kommunisere, hvor ofte de ønsker å ha møter, hvordan de skal komme frem til beslutninger og hvordan uenigheter skal håndteres.
+Risiko og utfordringer
+-	Deretter bør laget prøve identifisere mulige utfordringer som, tidspress, tverrfaglige misforståelser, teknisk kompleksitet, politisk påvirkning og brukerbehov som kan endre seg. dette skaper en felles forståelse for ulike utfordringer som kan oppstå slik at det kan håndteres bedre når det skjer. 
+Avslutting og videre arbeid
+-	Til slutt gir Erling en kort oppsummering av møte og planlegger arbeidet for de neste 2 ukene.
 ## 3. Rammer for relasjonelle kontrakter
 
 ## 4\. Proaktive mekanismer for konflikthåndtering
